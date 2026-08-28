@@ -1,0 +1,51 @@
+feedback,date,source,platform,user_id
+"The app crashes every time I try to upload a photo. I've tried reinstalling but the issue persists.",2025-07-01,App Store,iOS,u_001
+"Login is extremely slow — takes 15+ seconds on a good connection. Very frustrating.",2025-07-02,Support Ticket,Android,u_002
+"Love the new dashboard redesign! Much cleaner and easier to navigate.",2025-07-02,Survey,Web,u_003
+"I've been billed twice for the same month and customer support hasn't resolved it after 2 weeks.",2025-07-03,Support Ticket,Web,u_004
+"The search feature doesn't work at all. Typing in the search box does nothing.",2025-07-03,App Store,Android,u_005
+"Notifications stopped working after the latest update. I'm missing important alerts.",2025-07-04,App Store,iOS,u_006
+"Really impressed with the AI recommendations — they feel surprisingly accurate.",2025-07-04,Survey,Web,u_007
+"The mobile app is way too slow on older devices. Everything lags and stutters.",2025-07-05,App Store,Android,u_008
+"Can't export my data to CSV. The button is there but nothing downloads.",2025-07-05,Support Ticket,Web,u_009
+"Onboarding tutorial was super helpful. Got up and running in 10 minutes!",2025-07-06,Survey,Web,u_010
+"The app crashes when I switch between tabs quickly. Happens every time.",2025-07-06,App Store,iOS,u_011
+"Password reset emails are not arriving. Checked spam, nothing there.",2025-07-07,Support Ticket,Web,u_012
+"Charts on the analytics page take forever to load. Sometimes they just don't load.",2025-07-07,App Store,Android,u_013
+"I love the integrations with Slack and Google Sheets. Saves me so much time.",2025-07-08,Survey,Web,u_014
+"The dark mode is broken — some text is invisible against the dark background.",2025-07-08,App Store,iOS,u_015
+"Billing dashboard shows incorrect totals. The numbers don't add up at all.",2025-07-09,Support Ticket,Web,u_016
+"Search results are completely irrelevant to what I'm typing. Needs a lot of work.",2025-07-09,App Store,Android,u_017
+"App keeps logging me out randomly. Have to sign in multiple times a day.",2025-07-10,App Store,iOS,u_018
+"The customer support team was incredibly helpful and resolved my issue quickly!",2025-07-10,Survey,Web,u_019
+"Performance has degraded significantly since the last major update. Everything is slower.",2025-07-11,App Store,Android,u_020
+"Uploading large files always fails above 50MB. No error message, just hangs.",2025-07-11,Support Ticket,Web,u_021
+"The new filter UI is confusing — took me 10 minutes to figure out how to use it.",2025-07-12,Survey,Web,u_022
+"I can't believe how buggy this is. Three crashes in one session. Unacceptable.",2025-07-12,App Store,iOS,u_023
+"Collaboration features are excellent. My whole team switched from the competitor.",2025-07-13,Survey,Web,u_024
+"The app doesn't work at all offline. Even read-only features require internet.",2025-07-13,App Store,Android,u_025
+"Pricing is way too high for what you get. Competitors offer more for less.",2025-07-14,Survey,Web,u_026
+"Login with Google is broken — redirects to a 404 page every time.",2025-07-14,Support Ticket,Web,u_027
+"Getting 'Network Error' constantly. Have tried on 3 different networks.",2025-07-15,App Store,iOS,u_028
+"Would love a bulk export feature. Currently have to export one by one — very tedious.",2025-07-15,Survey,Web,u_029
+"The report generation feature is fantastic. Saves our team hours every week.",2025-07-16,Survey,Web,u_030
+"Two-factor authentication is broken — verification codes aren't arriving via SMS.",2025-07-16,Support Ticket,Web,u_031
+"Data sync between desktop and mobile is unreliable. Sometimes days out of date.",2025-07-17,App Store,Android,u_032
+"The UI is gorgeous but the UX needs work. Beautiful but hard to use.",2025-07-17,Survey,Web,u_033
+"App crashes on startup on iOS 18. Completely unusable since the update.",2025-07-18,App Store,iOS,u_034
+"Customer service took 5 days to respond and still hasn't solved my problem.",2025-07-18,Support Ticket,Web,u_035
+"The API documentation is outdated and missing critical endpoint details.",2025-07-19,Survey,Web,u_036
+"Webhook integrations are not firing reliably. About 30% of events are missed.",2025-07-19,Support Ticket,Web,u_037
+"Love the product overall. Small bugs aside, it's the best tool in this space.",2025-07-20,Survey,Web,u_038
+"The mobile keyboard covers input fields and there's no way to scroll. Very annoying.",2025-07-20,App Store,iOS,u_039
+"Team permissions are broken — editors can access admin settings they shouldn't.",2025-07-21,Support Ticket,Web,u_040
+"App randomly freezes and requires force-close. Losing unsaved work constantly.",2025-07-21,App Store,Android,u_041
+"The calendar integration with Google Calendar is seamless. Well done!",2025-07-22,Survey,Web,u_042
+"Can't add team members despite being on the Team plan. Getting a permissions error.",2025-07-22,Support Ticket,Web,u_043
+"Loading times are atrocious. 8-10 seconds to load a simple list view.",2025-07-23,App Store,Android,u_044
+"The search indexing seems wrong — searching for exact phrases returns zero results.",2025-07-23,Support Ticket,Web,u_045
+"I was charged after I cancelled my subscription. Need an immediate refund.",2025-07-24,Support Ticket,Web,u_046
+"Push notifications are delayed by hours. Completely defeats their purpose.",2025-07-24,App Store,iOS,u_047
+"The onboarding flow is confusing for non-technical users. Needs simplification.",2025-07-25,Survey,Web,u_048
+"Great product but the mobile experience feels like an afterthought.",2025-07-25,Survey,Android,u_049
+"File attachments over 10MB fail to send with a cryptic error message.",2025-07-26,Support Ticket,Web,u_050

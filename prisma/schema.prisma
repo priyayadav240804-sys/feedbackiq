@@ -1,0 +1,60 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model FeedbackBatch {
+  id          String   @id @default(cuid())
+  name        String
+  uploadedAt  DateTime @default(now())
+  totalRows   Int      @default(0)
+  validRows   Int      @default(0)
+  invalidRows Int      @default(0)
+  status      String   @default("done") // pending | processing | done | failed
+
+  feedbackItems FeedbackItem[]
+}
+
+model FeedbackItem {
+  id             String   @id @default(cuid())
+  batchId        String
+  feedbackText   String
+  date           DateTime?
+  source         String?
+  platform       String?
+  userId         String?
+  rawRow         String   // JSON string of original CSV row
+  isValid        Boolean  @default(true)
+  invalidReason  String?
+
+  // Phase 2: AI fields
+  category       String?
+  sentiment      String?  // Positive | Neutral | Negative
+  problemGroupId String?
+
+  createdAt      DateTime @default(now())
+
+  batch        FeedbackBatch  @relation(fields: [batchId], references: [id], onDelete: Cascade)
+  problemGroup ProblemGroup?  @relation(fields: [problemGroupId], references: [id])
+
+  @@index([batchId])
+  @@index([sentiment])
+  @@index([category])
+  @@index([problemGroupId])
+}
+
+model ProblemGroup {
+  id            String   @id @default(cuid())
+  title         String
+  summary       String?
+  sentiment     String?  // dominant sentiment
+  feedbackCount Int      @default(0)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  feedbackItems FeedbackItem[]
+}

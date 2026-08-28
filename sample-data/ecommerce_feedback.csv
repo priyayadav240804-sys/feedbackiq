@@ -1,0 +1,51 @@
+feedback,date,source,platform,user_id
+"Checkout flow is seamless, paid in under 30 seconds!",2025-09-01,App Store,iOS,u_001
+"The returns process is an absolute nightmare. Waited 3 weeks for a refund.",2025-09-01,Support Ticket,Web,u_002
+"Search results are totally irrelevant. Searched 'blue sneakers' and got sandals 😤",2025-09-02,App Store,Android,u_003
+"Order arrived 2 days early! Very impressed with the delivery speed.",2025-09-02,Survey,Web,u_004
+"Cannot login with Google — just spins forever then crashes the app",2025-09-03,App Store,iOS,u_005
+"Product photos are misleading. Item looks nothing like the picture.",2025-09-03,Support Ticket,Web,u_006
+"My order was marked as delivered but I never received it. Tracking info stopped updating.",2025-09-04,Support Ticket,Web,u_007
+"Wish list feature disappeared after the last update. Please bring it back!",2025-09-04,App Store,Android,u_008
+"The new product recommendation engine is spot on. Found exactly what I needed.",2025-09-05,Survey,iOS,u_009
+"Payment keeps failing with no error message. Had to use a different card 4 times.",2025-09-05,App Store,iOS,u_010
+"Customer support was rude and dismissive when I reported my issue.",2025-09-06,Support Ticket,Web,u_011
+"Size guide is inaccurate — ordered my usual size and it was way too small.",2025-09-06,App Store,Android,u_012
+"Promo code SAVE20 is not working at checkout. Error says 'invalid code' but it's listed on your site.",2025-09-07,Support Ticket,Web,u_013
+"App crashes every time I try to view my order history.",2025-09-07,App Store,iOS,u_014
+"Great selection of products. Love how easy it is to filter by brand.",2025-09-08,Survey,Web,u_015
+"The 'Sort by Price' function is broken. Items show in random order.",2025-09-08,App Store,Android,u_016
+"Duplicate charge on my account. Was billed twice for the same order!",2025-09-09,Support Ticket,Web,u_017
+"Notification for order dispatch never came. Found out by checking manually.",2025-09-09,App Store,iOS,u_018
+"Absolutely love the eco-friendly packaging. A great initiative 🌱",2025-09-10,Survey,Web,u_019
+"Out-of-stock items should not appear in search results. Very frustrating.",2025-09-10,App Store,Android,u_020
+"Return label printed but the courier won't accept it. QR code is unreadable.",2025-09-11,Support Ticket,Web,u_021
+"The dark mode on the app is gorgeous. Finally a shopping app that doesn't blind me at night.",2025-09-11,App Store,iOS,u_022
+"Delivery partner left the package outside in the rain. Everything was damaged.",2025-09-12,Support Ticket,Web,u_023
+"App is super slow on my older Android phone. Takes 10+ seconds to load product pages.",2025-09-12,App Store,Android,u_024
+"Discount was not applied even though I met the minimum order value. Had to contact support.",2025-09-13,Support Ticket,Web,u_025
+"The saved addresses keep disappearing. I have to re-enter my address every time.",2025-09-13,App Store,iOS,u_026
+"Ordered 2 items, only 1 arrived. The packing slip says both were included.",2025-09-14,Support Ticket,Web,u_027
+"The product review system is great — detailed, helpful, and well-organized.",2025-09-14,Survey,Web,u_028
+"Can't filter reviews by star rating. I want to see the critical ones first.",2025-09-15,App Store,Android,u_029
+"Buy Now button is unresponsive on iPad. Have to reload the page to make it work.",2025-09-15,App Store,iOS,u_030
+"Live chat connected me to an agent in 30 seconds. Issue resolved immediately. 10/10",2025-09-16,Survey,Web,u_031
+"The seller took 3 weeks to ship but tracking showed it as 'processing' the whole time.",2025-09-16,Support Ticket,Web,u_032
+"App crashes when I open a product with more than 20 images.",2025-09-17,App Store,Android,u_033
+"Gift wrapping option is a really thoughtful addition. Used it for my mom's birthday.",2025-09-17,Survey,iOS,u_034
+"My account was suspended without warning or explanation. What's going on?",2025-09-18,Support Ticket,Web,u_035
+"The comparison feature side-by-side is fantastic for choosing between products.",2025-09-18,App Store,iOS,u_036
+"Received a completely wrong item. The box was correct but contents were not.",2025-09-19,Support Ticket,Web,u_037
+"Fingerprint login stopped working after the last update. Now I have to type my password every time.",2025-09-19,App Store,Android,u_038
+"The price tracker feature is amazing — got alerted when my wishlist item dropped 40%.",2025-09-20,App Store,iOS,u_039
+"Cannot apply two coupons at once. The second one just disappears.",2025-09-20,Support Ticket,Web,u_040
+"Product descriptions are often copy-pasted from manufacturer with no actual information about fit.",2025-09-21,App Store,Android,u_041
+"Flash sale items sold out before the sale even started. How??",2025-09-21,Survey,Web,u_042
+"The app's AR 'try-on' feature for glasses is incredible. Saved me a trip to the store.",2025-09-22,App Store,iOS,u_043
+"Why does my cart empty itself every time I close the app?",2025-09-22,App Store,Android,u_044
+"Subscription box arrived missing 3 items. Have been waiting a week for a response.",2025-09-23,Support Ticket,Web,u_045
+"The homepage loads too many animations and it makes everything lag.",2025-09-23,App Store,iOS,u_046
+"Refund was processed to a card I no longer have. Need this escalated urgently!",2025-09-24,Support Ticket,Web,u_047
+"This app has become my go-to for shopping. Reliable, fast, and great deals 😊",2025-09-24,Survey,Web,u_048
+"Seller ratings are nowhere near the product listing. Why hide that?",2025-09-25,App Store,Android,u_049
+"My last 3 orders have all had at least one wrong item. Quality control is non-existent.",2025-09-25,Support Ticket,Web,u_050

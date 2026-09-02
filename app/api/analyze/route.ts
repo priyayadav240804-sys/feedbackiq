@@ -1,22 +1,23 @@
 /**
  * POST /api/analyze
  * Body: { batchId: string }
- * 
+ *
  * Runs the two-phase AI analysis pipeline on a specific batch:
  *   1. Categorize + sentiment each FeedbackItem
  *   2. Group items into ProblemGroups
- * 
+ *
  * Updates FeedbackItem rows in-place and creates/updates ProblemGroup rows.
  * Existing analysis for the batch is cleared before re-running.
  */
+
+// Allow up to 60s on Vercel Hobby (max allowed)
+export const maxDuration = 60
 
 import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 import { isGroqConfigured } from '@/lib/groq'
 import { categorizeFeedback, groupIntoProblems } from '@/lib/analyze'
 import type { Category, Sentiment } from '@/lib/analyze'
-
-export const maxDuration = 300  // 5 minute timeout for large batches
 
 export async function POST(req: NextRequest) {
   // ── Guard: API key must be set ────────────────────────────────────────────

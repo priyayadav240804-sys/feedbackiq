@@ -1,0 +1,51 @@
+feedback,date,source,platform,user_id
+"Can't log in after the update. Tried resetting password 3 times — still locked out.",2025-10-01,App Store,iOS,u_001
+"Love the new dashboard! Seeing all my accounts in one place is a game changer.",2025-10-01,Survey,Web,u_002
+"Biometric login works maybe 50% of the time. Very annoying for a banking app.",2025-10-02,App Store,Android,u_003
+"Transferred money to wrong account. The confirmation screen needs to show full account number, not just last 4 digits.",2025-10-02,Support Ticket,Web,u_004
+"App crashes every single time I try to open my credit card statement.",2025-10-03,App Store,iOS,u_005
+"The new spending insights feature is brilliant. Helped me realize I was spending $400/month on subscriptions.",2025-10-03,Survey,Web,u_006
+"International wire transfer has been 'processing' for 6 days. No update, no ETA.",2025-10-04,Support Ticket,Web,u_007
+"Notifications for transactions stopped working after iOS 18 update.",2025-10-04,App Store,iOS,u_008
+"Why does the app log me out every 5 minutes? Extremely frustrating.",2025-10-05,App Store,Android,u_009
+"Depositing a cheque by photo has never worked for me. Image always fails quality check.",2025-10-05,Support Ticket,Web,u_010
+"Customer support chat is incredible — agent resolved my dispute in under 10 minutes.",2025-10-06,Survey,Web,u_011
+"Two-factor authentication code takes over 3 minutes to arrive via SMS. By then it's expired.",2025-10-06,App Store,iOS,u_012
+"My salary was credited but the app shows wrong available balance. Very worrying.",2025-10-07,Support Ticket,Web,u_013
+"Scheduled payments are going out a day early and causing overdraft fees. This is a serious bug.",2025-10-07,App Store,Android,u_014
+"The dark mode is gorgeous. Best banking UI I've used.",2025-10-08,App Store,iOS,u_015
+"Fraud alert system blocked my card while I was travelling even after I set travel notification.",2025-10-08,Support Ticket,Web,u_016
+"Interest calculator tool in the savings section is really helpful for planning.",2025-10-09,Survey,Web,u_017
+"App refuses to load on any WiFi network. Works fine on mobile data. Something is wrong with your servers.",2025-10-09,App Store,Android,u_018
+"Statement download fails every time. Just gives a blank PDF.",2025-10-10,Support Ticket,Web,u_019
+"Please add UPI integration. All other banking apps have it.",2025-10-10,App Store,iOS,u_020
+"The budget tracker categorizes my grocery spend as 'Entertainment'. The AI needs work.",2025-10-11,App Store,Android,u_021
+"Loan EMI calculator gave me completely wrong numbers. I almost signed for the wrong amount!",2025-10-11,Support Ticket,Web,u_022
+"Virtual card feature for online shopping is excellent. Feels very secure.",2025-10-12,Survey,iOS,u_023
+"App size is 400MB. That's absurd for a banking app. Please optimize.",2025-10-12,App Store,Android,u_024
+"My fixed deposit matured 2 weeks ago and still hasn't auto-renewed as per my settings.",2025-10-13,Support Ticket,Web,u_025
+"Transaction search is too slow. Searching 6 months of history takes 15 seconds.",2025-10-13,App Store,iOS,u_026
+"The investment portfolio section crashes when I have more than 10 mutual funds linked.",2025-10-14,App Store,Android,u_027
+"Loved the financial health score feature. Very motivating to improve it.",2025-10-14,Survey,Web,u_028
+"Can't add joint account holder through the app. Forced to visit the branch for something so basic.",2025-10-15,Support Ticket,Web,u_029
+"Bill payment history disappeared after the last update. Called support, no one knows where it went.",2025-10-15,App Store,iOS,u_030
+"The new card controls (freeze/unfreeze) are exactly what I needed. Used it right away.",2025-10-16,App Store,Android,u_031
+"Recurring transfer failed silently. No notification, no error. Just didn't execute.",2025-10-16,Support Ticket,Web,u_032
+"Font size in the transaction list is way too small. Impossible to read without zooming.",2025-10-17,App Store,iOS,u_033
+"Why is there no option to export transactions as CSV? Only PDF is available.",2025-10-17,App Store,Android,u_034
+"App is super smooth and fast on my new phone. Major improvement from last year.",2025-10-18,Survey,Web,u_035
+"Account opening was 100% digital and took 7 minutes. Absolutely phenomenal experience.",2025-10-18,Survey,Web,u_036
+"Video KYC call dropped 4 times. Had to restart the whole verification process.",2025-10-19,Support Ticket,Web,u_037
+"The app shows my account as 'inactive' even though I transact regularly. Called support — no resolution.",2025-10-19,App Store,iOS,u_038
+"Loved getting a real-time credit score update right in the app. No third-party needed.",2025-10-20,Survey,Android,u_039
+"Linked my other bank accounts for net worth view — feature is great but syncing fails every other day.",2025-10-20,App Store,iOS,u_040
+"Chatbot is completely useless. Just redirects to FAQs for every question, even urgent ones.",2025-10-21,App Store,Android,u_041
+"Tax summary report for the financial year is a lifesaver. Sent it straight to my CA.",2025-10-21,Survey,Web,u_042
+"Zero customer service — been waiting 8 days for a response on a disputed charge.",2025-10-22,Support Ticket,Web,u_043
+"App blocked my international payment with no explanation. Had to use a competitor's card.",2025-10-22,App Store,iOS,u_044
+"Love the round-up savings feature. Saved ₹3,000 without even noticing.",2025-10-23,Survey,Android,u_045
+"Please add the ability to set custom transaction categories. The default ones are too generic.",2025-10-23,App Store,iOS,u_046
+"The app randomly signs me out and when I sign back in, my widgets are reset.",2025-10-24,App Store,Android,u_047
+"Getting duplicate transaction notifications. Same transaction shows up 3-4 times.",2025-10-24,Support Ticket,Web,u_048
+"Passbook download doesn't include UPI transactions. Huge gap.",2025-10-25,App Store,iOS,u_049
+"Best banking app I've used. Switching to competitor feels unthinkable now.",2025-10-25,Survey,Web,u_050

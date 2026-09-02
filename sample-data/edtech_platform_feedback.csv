@@ -1,0 +1,51 @@
+feedback,date,source,platform,user_id
+"Videos buffer constantly even on my 100Mbps connection. Other platforms stream fine.",2025-11-01,App Store,iOS,u_101
+"The instructor for the Python bootcamp explains concepts so clearly. Best course I've taken online.",2025-11-01,Survey,Web,u_102
+"My completion certificate hasn't arrived 3 weeks after I finished the course.",2025-11-02,Support Ticket,Web,u_103
+"Quiz questions have wrong answers marked as correct. I reported this 2 months ago — still not fixed.",2025-11-02,App Store,Android,u_104
+"Offline download works perfectly. Finished 3 modules during my flight.",2025-11-03,App Store,iOS,u_105
+"Progress resets to zero every time I uninstall and reinstall the app. Lost 40% progress.",2025-11-03,Support Ticket,Web,u_106
+"The live session feature is a mess — audio cuts out every few minutes and the instructor can't hear students.",2025-11-04,App Store,Android,u_107
+"Course content is outdated. The React course still teaches class components and hasn't been updated since 2022.",2025-11-04,Survey,Web,u_108
+"Subtitles are out of sync by about 3 seconds. Makes it very hard to follow along.",2025-11-05,App Store,iOS,u_109
+"I love the hands-on coding sandbox. Being able to practice right inside the lesson is brilliant.",2025-11-05,Survey,Web,u_110
+"Charged twice for the annual subscription. Been waiting 2 weeks for a refund.",2025-11-06,Support Ticket,Web,u_111
+"The search barely works. Searched 'machine learning' and got results for 'marketing'.",2025-11-06,App Store,Android,u_112
+"Assignment submission portal is broken. File uploads get stuck at 99%.",2025-11-07,Support Ticket,Web,u_113
+"Peer review system is fantastic. Getting feedback from other learners is very motivating.",2025-11-07,Survey,Web,u_114
+"The mobile app doesn't support landscape mode. Watching coding tutorials in portrait is a nightmare.",2025-11-08,App Store,iOS,u_115
+"No dark mode. Watching videos in a dark room is hard on the eyes.",2025-11-08,App Store,Android,u_116
+"My learning streak of 74 days was reset due to a server outage. Very demoralizing.",2025-11-09,Support Ticket,Web,u_117
+"The AI-powered learning path recommendation is spot on — guided me to exactly the right courses.",2025-11-09,Survey,Web,u_118
+"Instructor hasn't responded to any discussion questions in 4 months. Course feels abandoned.",2025-11-10,App Store,iOS,u_119
+"Code editor in the sandbox doesn't support copy-paste on mobile. Completely unusable.",2025-11-10,App Store,Android,u_120
+"Got a job offer 2 months after completing the Data Science track. The curriculum is genuinely excellent.",2025-11-11,Survey,Web,u_121
+"Playback speed controls are broken on Safari — video plays at wrong speed after changing.",2025-11-11,App Store,iOS,u_122
+"Course announcements go to spam even after whitelisting the email address.",2025-11-12,Support Ticket,Web,u_123
+"The mentor Q&A sessions are incredibly valuable. Got more clarity in 30 minutes than a week of reading.",2025-11-12,Survey,Web,u_124
+"Forum notifications don't work. I only find replies to my questions by chance.",2025-11-13,App Store,Android,u_125
+"The platform is clearly built for desktop. The mobile app is an afterthought.",2025-11-13,App Store,iOS,u_126
+"Bookmarking a specific timestamp in a video doesn't work — bookmark always jumps to start.",2025-11-14,Support Ticket,Web,u_127
+"The project-based learning approach is phenomenal. I built 4 real apps during the course.",2025-11-14,Survey,Web,u_128
+"Can't resume video where I left off on a different device. Progress doesn't sync across devices.",2025-11-15,App Store,iOS,u_129
+"Transcript download has formatting issues — all text runs together with no line breaks.",2025-11-15,Support Ticket,Web,u_130
+"The gamification badges are a fun touch. Keep me coming back every day.",2025-11-16,App Store,Android,u_131
+"Final exam for the certification doesn't match the course content at all. Covered topics never taught.",2025-11-16,Support Ticket,Web,u_132
+"Drag and drop exercises are broken on touchscreens. Can't complete the module.",2025-11-17,App Store,iOS,u_133
+"Course catalogue filters don't work properly — filtering by 'Beginner' shows advanced courses.",2025-11-17,App Store,Android,u_134
+"The community Discord for learners is an amazing addition. Got unstuck on a problem within minutes.",2025-11-18,Survey,Web,u_135
+"Why do I need to sign in again every time I close the browser tab? The session timeout is too aggressive.",2025-11-18,App Store,iOS,u_136
+"Note-taking feature inside the video player is excellent. Don't need a separate app anymore.",2025-11-19,Survey,Web,u_137
+"Video quality drops to 144p randomly even with great internet. Auto quality adjustment is broken.",2025-11-19,App Store,Android,u_138
+"I paid for the premium plan but still see 'upgrade' prompts everywhere in the app.",2025-11-20,Support Ticket,Web,u_139
+"The estimated completion time shown for courses is wildly inaccurate. Says '3 hours' but takes 12.",2025-11-20,App Store,iOS,u_140
+"Love that courses are updated regularly. The cloud computing course already covers the latest AWS features.",2025-11-21,Survey,Web,u_141
+"App crashes when I switch to the next lesson immediately after finishing one.",2025-11-21,App Store,Android,u_142
+"The job board for learners is an amazing value-add. Employers post roles specifically looking for platform graduates.",2025-11-22,Survey,Web,u_143
+"My certificate shows the wrong course name. Embarrassing to share on LinkedIn.",2025-11-22,Support Ticket,Web,u_144
+"Loading spinner runs forever on the course homepage. Have to hard refresh to load anything.",2025-11-23,App Store,iOS,u_145
+"Wish I could preview more than just the first lesson before purchasing. Hard to judge quality.",2025-11-23,App Store,Android,u_146
+"Discussion forum threads get buried too fast. Popular questions should be pinned.",2025-11-24,Survey,Web,u_147
+"Video playback on Android TV app is completely broken after the last update.",2025-11-24,App Store,Android,u_148
+"The structured learning schedule feature keeps me accountable. Love the weekly goals.",2025-11-25,Survey,Web,u_149
+"Course refund was processed in 2 days with no hassle. Great customer service experience.",2025-11-25,Survey,Web,u_150

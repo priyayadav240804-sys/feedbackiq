@@ -1,0 +1,51 @@
+feedback,date,source,platform,user_id
+"Onboarding took our team 3 days and still half the features don't work. Worst SaaS experience ever.",2026-01-03,Support Ticket,Web,u_301
+"The automated performance review workflow saved our HR team literally 40 hours this cycle.",2026-01-03,Survey,Web,u_302
+"SSO integration with Azure AD keeps breaking. Our whole team gets locked out every few weeks.",2026-01-06,Support Ticket,Web,u_303
+"The org chart visualization is beautiful and actually useful for understanding reporting structures.",2026-01-07,Survey,Web,u_304
+"Payroll module calculated incorrect deductions for 12 employees. Created a nightmare at month end.",2026-01-08,Support Ticket,Web,u_305
+"Employee self-service portal has reduced HR queries by 60%. Massive time saver.",2026-01-09,Survey,Web,u_306
+"Leave balance calculations are completely wrong after the recent update. Shows negative leave for some employees.",2026-01-10,Support Ticket,Web,u_307
+"The mobile app for employees is very limited. Can't approve leave requests from phone.",2026-01-11,App Store,iOS,u_308
+"Custom report builder is incredibly powerful. Built a headcount analysis in minutes that used to take days.",2026-01-12,Survey,Web,u_309
+"Bulk employee import via CSV fails silently — no error message, just doesn't import.",2026-01-13,Support Ticket,Web,u_310
+"The compliance alerts for policy renewals and certifications are a lifesaver. Nothing slips through.",2026-01-14,Survey,Web,u_311
+"Data export takes forever. Exporting 500 employee records takes 20 minutes and often times out.",2026-01-15,Support Ticket,Web,u_312
+"UI is completely non-intuitive. Our HR team needed a full week of training just for basic tasks.",2026-01-16,Survey,Web,u_313
+"The Slack integration for announcements and leave approvals is seamless.",2026-01-17,Survey,Web,u_314
+"Two-factor authentication is mandatory but the authenticator app support is broken for Android users.",2026-01-18,Support Ticket,Web,u_315
+"Recruitment pipeline view is excellent. Our hiring manager can see every candidate's status at a glance.",2026-01-19,Survey,Web,u_316
+"The audit trail logs are incomplete — major changes aren't being recorded. Compliance risk.",2026-01-20,Support Ticket,Web,u_317
+"Calendar sync with Google Calendar and Outlook is broken. Meetings are showing at wrong times.",2026-01-21,Support Ticket,Web,u_318
+"Employee survey module with built-in analytics is phenomenal. First time we've had actionable data.",2026-01-22,Survey,Web,u_319
+"Support tickets take 5-7 business days to get a response. Unacceptable for enterprise software.",2026-01-23,Support Ticket,Web,u_320
+"API documentation is outdated. Endpoints described in the docs return 404 errors.",2026-01-24,Support Ticket,Web,u_321
+"The training and certification tracking module has transformed our L&D compliance process.",2026-01-25,Survey,Web,u_322
+"System is down for maintenance every Sunday during business hours for us (different timezone). Major issue.",2026-01-26,Support Ticket,Web,u_323
+"Salary revision workflow is perfect. Approvals, notifications, and payroll sync all work as expected.",2026-01-27,Survey,Web,u_324
+"Offboarding checklist feature is great but doesn't automatically revoke software access. Security gap.",2026-01-28,Support Ticket,Web,u_325
+"The analytics dashboard is slow to load. Charts take 30+ seconds to render for companies > 1000 employees.",2026-01-29,Support Ticket,Web,u_326
+"Cannot assign custom roles with specific permissions. Only 3 pre-set roles available.",2026-01-30,Support Ticket,Web,u_327
+"The goal-setting OKR module has increased visibility across teams. Very positive culture impact.",2026-01-31,Survey,Web,u_328
+"Payslip generation fails for employees with variable pay components. Critical bug.",2026-02-01,Support Ticket,Web,u_329
+"Multi-currency payroll for our global team works flawlessly. The exchange rate handling is accurate.",2026-02-02,Survey,Web,u_330
+"The probation review reminder system is excellent — never miss a review now.",2026-02-03,Survey,Web,u_331
+"System doesn't support Indian statutory compliance (PF, ESI, PT) properly. Lots of manual workarounds.",2026-02-04,Support Ticket,Web,u_332
+"Department-wise headcount reports have inconsistent numbers. Same report run twice gives different results.",2026-02-05,Support Ticket,Web,u_333
+"The 360-degree feedback module is transforming how we do performance conversations.",2026-02-06,Survey,Web,u_334
+"Employee data is not encrypted at rest based on our security audit. Huge compliance concern.",2026-02-07,Support Ticket,Web,u_335
+"Cannot bulk-update employee designations after a restructuring. Have to change one by one.",2026-02-08,Support Ticket,Web,u_336
+"The exit interview digitization feature has helped us identify why our top talent was leaving.",2026-02-09,Survey,Web,u_337
+"Session unexpectedly logs out during payroll processing. Losing unsaved data is a critical workflow issue.",2026-02-10,Support Ticket,Web,u_338
+"New employee welcome email templates are fully customizable — great first impression feature.",2026-02-11,Survey,Web,u_339
+"Document management module has no version control. Overwriting policies is irreversible.",2026-02-12,Support Ticket,Web,u_340
+"The succession planning module has added real strategic value for our leadership team.",2026-02-13,Survey,Web,u_341
+"GDPR-compliant data deletion requests take over 30 days to process. That's not compliant.",2026-02-14,Support Ticket,Web,u_342
+"Benefits enrollment portal is confusing and employees keep enrolling in wrong plans.",2026-02-15,Support Ticket,Web,u_343
+"Automated birthday and work anniversary notifications have improved team morale significantly.",2026-02-16,Survey,Web,u_344
+"The mobile app crashes on iPads. Our field managers use iPads exclusively.",2026-02-17,App Store,iOS,u_345
+"Time and attendance tracking integration with our biometric devices is flawless.",2026-02-18,Survey,Web,u_346
+"Cannot generate an employee census report without contacting support. Should be self-service.",2026-02-19,Support Ticket,Web,u_347
+"The implementation team was exceptional — held our hand through every step of the setup.",2026-02-20,Survey,Web,u_348
+"Shift scheduling module doesn't account for employees' declared availability preferences.",2026-02-21,Support Ticket,Web,u_349
+"Best HR platform we've used in 10 years. The ROI was visible within the first quarter.",2026-02-22,Survey,Web,u_350

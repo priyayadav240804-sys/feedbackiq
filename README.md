@@ -1,6 +1,11 @@
 # FeedbackIQ
 
-FeedbackIQ is an AI-powered customer feedback intelligence platform designed for Product Managers. It takes raw, unstructured customer feedback (from app reviews, support tickets, surveys, etc.) and uses AI to automatically categorize it, analyze sentiment, and group it into actionable product insights and problem clusters.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-feedbackiq--xi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://feedbackiq-xi.vercel.app)
+
+> 🚀 **[Try it live → feedbackiq-xi.vercel.app](https://feedbackiq-xi.vercel.app)**
+
+FeedbackIQ is an AI-powered customer feedback intelligence platform designed for Product Managers.
+ It takes raw, unstructured customer feedback (from app reviews, support tickets, surveys, etc.) and uses AI to automatically categorize it, analyze sentiment, and group it into actionable product insights and problem clusters.
 
 ## Features (MVP)
 

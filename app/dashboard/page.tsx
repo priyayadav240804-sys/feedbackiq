@@ -337,7 +337,9 @@ export default function DashboardPage() {
                   <span className="card-title">📈 Feedback Volume Over Time</span>
                   <span style={{ fontSize: 12, color: 'var(--text-muted)' }}>Hover over points for daily breakdown</span>
                 </div>
-                <TrendChart />
+                <div className="trend-chart-wrap">
+                  <TrendChart />
+                </div>
               </div>
             )}
 
@@ -391,7 +393,7 @@ export default function DashboardPage() {
             ) : hasData && !hasAnalysis ? (
               /* Needs analysis CTA */
               <div className="card" style={{ borderColor: 'rgba(99,102,241,0.3)', background: 'linear-gradient(135deg, rgba(99,102,241,0.08), rgba(139,92,246,0.05))' }}>
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 20 }}>
+                <div className="cta-card-inner" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 20 }}>
                   <div>
                     <div style={{ fontSize: 15, fontWeight: 700, color: 'var(--text-primary)', marginBottom: 4 }}>
                       🤖 Ready for AI Analysis
